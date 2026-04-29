@@ -1,0 +1,32 @@
+{
+  "best_model": "Random Forest",
+  "best_accuracy": 79.29,
+  "models": {
+    "Random Forest": {
+      "accuracy": 79.29,
+      "precision": 76.28,
+      "recall": 84.94,
+      "f1_score": 80.38
+    },
+    "Logistic Regression": {
+      "accuracy": 78.44,
+      "precision": 79.24,
+      "recall": 76.99,
+      "f1_score": 78.1
+    },
+    "Decision Tree": {
+      "accuracy": 75.46,
+      "precision": 71.99,
+      "recall": 83.24,
+      "f1_score": 77.21
+    },
+    "Gradient Boosting": {
+      "accuracy": 78.58,
+      "precision": 76.1,
+      "recall": 83.24,
+      "f1_score": 79.51
+    }
+  },
+  "dataset_size": 3524,
+  "failure_rate": 50.0
+}
