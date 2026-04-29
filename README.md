@@ -500,18 +500,37 @@ To improve this project:
 This project is provided as-is for educational and development purposes.
 
 ---
-
+<!-- 
 📫 Connect:
 Member 1 : Shiv Shankar Kumar Sah
 📧 Email: shivshankarkumarsah23072004@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/shiv-shankar-kumar-sah-64218a2a0/overlay/about-this-profile/
-📊 GitHub : https://github.com/ssks23072004/ssks23072004/tree/main
+📊 GitHub : https://github.com/ssks23072004/ssks23072004/tree/main -->
 
 
-📫 Connect:
+
+## 📫 Connect
+
+### 👤 Member 1: Shiv Shankar Kumar Sah  
+📧 Email: shivshankarkumarsah23072004@gmail.com  
+💼 LinkedIn: [Profile] https://www.linkedin.com/in/shiv-shankar-kumar-sah-64218a2a0/overlay/about-this-profile/ 
+📊 GitHub: [ssks23072004] https://github.com/ssks23072004/ssks23072004/tree/main 
+
+---
+
+### 👤 Member 2: Shreya Bhargava  
+📧 Email: shreyabhargava720@gmail.com  
+💼 LinkedIn: [Profile] https://www.linkedin.com/in/shreya-bhargava28?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+📊 GitHub: [shreya281-tech] https://github.com/shreya281-tech
+
+
+
+
+
+<!-- 📫 Connect:
 Member 2 : Shreya Bhargava
 📧 Email: shreyabhargava720@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/shreya-bhargava28?utm_source=share_via&utm_content=profile&utm_medium=member_android
-📊 GitHub : https://github.com/shreya281-tech
+📊 GitHub : https://github.com/shreya281-tech -->
 
 **Happy pipeline predicting! 🚀**
